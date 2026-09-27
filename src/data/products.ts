@@ -22,7 +22,7 @@ export const products: Product[] = [
   {
     "name": "Porsche 911 GT3 RS Print Tee",
     "category": "Graphic Tee",
-    "price": 1600,
+    "price": 1800,
     "mrp": 3000,
     "color": "White",
     "fabric": "220 GSM Cotton",
@@ -34,7 +34,7 @@ export const products: Product[] = [
   {
     "name": "Sabr Calligraphy Oversized Tee",
     "category": "Graphic Tee",
-    "price": 1500,
+    "price": 1900,
     "mrp": 2999,
     "color": "Charcoal Black",
     "fabric": "220 GSM Cotton",
@@ -46,7 +46,7 @@ export const products: Product[] = [
   {
     "name": "Sabr Rug Print Oversized Tee",
     "category": "Graphic Tee",
-    "price": 1600,
+    "price": 1800,
     "mrp": 3000,
     "color": "Charcoal Black",
     "fabric": "220 GSM Cotton",
@@ -58,7 +58,7 @@ export const products: Product[] = [
   {
     "name": "Porsche Wordmark Tee",
     "category": "Graphic Tee",
-    "price": 1500,
+    "price": 1900,
     "mrp": 2999,
     "color": "White",
     "fabric": "220 GSM Cotton",
@@ -70,7 +70,7 @@ export const products: Product[] = [
   {
     "name": "The Funniest Thing Tee",
     "category": "Graphic Tee",
-    "price": 1600,
+    "price": 1800,
     "mrp": 3000,
     "color": "Black",
     "fabric": "220 GSM Cotton",
@@ -82,7 +82,7 @@ export const products: Product[] = [
   {
     "name": "Ash Grey Essential Tee",
     "category": "Plain Tee",
-    "price": 1500,
+    "price": 1900,
     "mrp": 2999,
     "color": "Ash Grey",
     "fabric": "220 GSM Cotton",
