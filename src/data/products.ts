@@ -34,7 +34,7 @@ export const products: Product[] = [
   {
     "name": "Sabr Calligraphy Oversized Tee",
     "category": "Graphic Tee",
-    "price": 1900,
+    "price": 1800,
     "mrp": 2999,
     "color": "Charcoal Black",
     "fabric": "220 GSM Cotton",
@@ -58,7 +58,7 @@ export const products: Product[] = [
   {
     "name": "Porsche Wordmark Tee",
     "category": "Graphic Tee",
-    "price": 1900,
+    "price": 1800,
     "mrp": 2999,
     "color": "White",
     "fabric": "220 GSM Cotton",
