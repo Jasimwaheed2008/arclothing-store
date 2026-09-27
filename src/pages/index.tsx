@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>AR Clothing | Oversized Printed Tees, Rs 899 to Rs 2,000</title>
+        <title>AR Clothing | Oversized Printed Tees, Rs 1899 to Rs 2,000</title>
         <meta
           name="description"
           content="AR Clothing - oversized graphic and plain tees. Rs 1899 to Rs 2,000. Order on WhatsApp 0326 5632847, pay advance via Easypaisa."
