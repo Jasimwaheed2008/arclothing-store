@@ -67,28 +67,5 @@ export const products: Product[] = [
     "description": "Clean chest wordmark print on soft heavyweight cotton. Drop-shoulder AR Store fit.",
     "id": 4
   },
-  {
-    "name": "The Funniest Thing Tee",
-    "category": "Graphic Tee",
-    "price": 1800,
-    "mrp": 3000,
-    "color": "Black",
-    "fabric": "220 GSM Cotton",
-    "sizes": ["S", "M", "L", "XL"],
-    "image": "/products/real/ar-r05.jpg",
-    "description": "Bold full-front typography print with a witty one-liner. Heavyweight cotton, drop-shoulder AR Store fit.",
-    "id": 5
-  },
-  {
-    "name": "Ash Grey Essential Tee",
-    "category": "Plain Tee",
-    "price": 1900,
-    "mrp": 2999,
-    "color": "Ash Grey",
-    "fabric": "220 GSM Cotton",
-    "sizes": ["S", "M", "L", "XL"],
-    "image": "/products/real/ar-r06.jpg",
-    "description": "Oversized fit tee in soft heavyweight cotton. Drop-shoulder cut, ribbed crew neck, holds shape wash after wash.",
-    "id": 6
-  },
+
   ]
